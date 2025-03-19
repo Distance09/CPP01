@@ -1,0 +1,9 @@
+﻿  boss.cpp
+  employee.cpp
+  manager.cpp
+  workerManger.cpp
+E:\学习资料\cpp\第4阶段实战-基于多态的企业职工系统资料\代码\基于多态的职工管理系统\基于多态的职工管理系统\workerManger.cpp(377,4): warning C4102: “case1”: 未引用的标签
+E:\学习资料\cpp\第4阶段实战-基于多态的企业职工系统资料\代码\基于多态的职工管理系统\基于多态的职工管理系统\workerManger.cpp(380,4): warning C4102: “case2”: 未引用的标签
+  职工管理系统.cpp
+  正在生成代码...
+  基于多态的职工管理系统.vcxproj -> E:\学习资料\cpp\第4阶段实战-基于多态的企业职工系统资料\代码\基于多态的职工管理系统\Debug\基于多态的职工管理系统.exe
