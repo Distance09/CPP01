@@ -1,0 +1,19 @@
+Employee management system can be used to manage the information of all employees in the company
+
+This paper mainly uses C++ to implement a staff management system based on polymorphism
+
+The employees in the company are divided into three categories: ordinary employees, managers and bosses. When displaying information, it is necessary to display the employee number, employee name, employee position and responsibility
+
+1. Responsibilities of ordinary employees: to complete the tasks assigned by the manager
+2. Manager responsibilities: complete the tasks assigned by the boss and issue them to employees
+3. Boss responsibility: Manage all the affairs of the company
+
+The functions that need to be implemented in the management system are as follows:
+1. Exit management program: Exit the current management system
+2. Add employee information: Realize the function of adding employees in batches, and input the information into the file. The employee information is: employee number, name, department number
+3. Display employee information: Display the information of all employees within the company
+4. Delete the departed employee: Delete the designated employee according to the number
+5. Modify employee information: Modify employee personal information according to the No
+6. Find employee information: according to the employee number or employee name to find the relevant personnel information
+7. Sorting by number: According to the employee number, the sorting rule is specified by the user
+8. Clear all documents: Clear all employee information recorded in the file (clear before need to confirm again, to prevent accidental deletion)
